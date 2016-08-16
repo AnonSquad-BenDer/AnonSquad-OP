@@ -1,0 +1,123 @@
+Quelques règles d'opsec dans le monde de la sécurité informatique et du renseignement (en général).
+
+Protège :
+Ton identité
+Ton activité "clandestine"
+Ton association à cette activitée
+
+STFU !
+
+Limiter le nombre de gens impliqué au minimum si vous êtes plusieurs (dans un environnement "réel").
+
+Plus le temps et la distance augmente entre toi et ta cible, plus le coût pour votre adversaire (cible) augmente.
+
+Citation : (Traduite de Grugq)
+"Ne jamais écrire si tu peux parler.
+Ne jamais parler si vous pouvez hocher la tête
+Ne jamais hocher la tête si vous pouvez cligner des yeux."
+
+Votre adversaire à un chef et un budget.
+
+Les informations que votre adversaire obtient viennent uniquement de VOUS.
+
+Si quelqu'un de votre groupe "à besoin de savoir", vous devez vous poser cette unique question.
+Si cette personne partage le risque avec vous, alors il a besoin/le droit de savoir. Ce besoin est bien sûr restreint seulement aux aspects de l'OP en cours.
+
+Listez vos adversaires et classez les par possibilité et capacité.
+Listez les informations à protégé et dev. une strat. de mitigation.
+
+Mettez vous à la place de vos attaquants/cible.
+
+Définition du modèle de menace, quelques questions : 
+Qui veut savoir ce que vous faite ?
+Qu'est-ce qu'ils peuvent faire pour réussir ?
+Qu'arrive t-il si ils réussissent ?
+
+STFU !!
+
+Créez-vous de multiple identité (Virtuel et si possible réel).
+Changez en autant que possible et utilisez Tor.
+Cachez l'utilisation de Tor avec un VPN et/où un bridge Obfs4.
+Générez de faux "profils", exemple pendant que vous dormez laissez tournée Youtube + quelques DL pour générer du trafic, faire croire que vous êtes en "activité".
+Comme si vous étiez encore debout, cela permet d'aider un peu contre les attaques par corrélation.
+Les attaques par corrélation sont les PIRES. (Corrélation entre un pseudo et une connexion Tor par exemple ...).
+Exemple : dès que cette personne se connecte à Tor, ce pseudo apparaît sur IRC (grossièrement).
+
+La faiblesse de l'OPSEC est l'HUMINT (renseignement humain donc encore une fois STFU!).
+Controlez l'information aussi d'un point de vue humain (si vous avez des actions dans le monde physique).
+Il n'y a rien de mieux pour protégé un secret que de ne le dire à personne.
+
+STFU !!!
+
+Souvenez-vous le but est de réduire la quantité et la qualité de l'information disponible à l'adversaire.
+
+En cas d'interrogatoire, ce qui marche le plus est souvent l'alcool, la flatterie, mettre en doute, le jeu, ne rentrez pas dedans.
+Tout le monde pense à la torture, la violence, mais c'est rare.
+
+Connaitre ses propres vulnérabilités.
+Avoir 0 faiblesses est irréaliste.
+
+Pas de log, pas de crime, ne gardez aucune trace de vos échanges (SIGINT), de données sur vos membres.
+
+Minimisé la période de vulnérabilité augmente les chances de succès de l'opération.
+
+Bien réfléchir avant toute action technique !
+Qu'entraînera cette action ?
+Quelle trace cette action laissera ? sur le Réseau ? sur ma machine ?
+
+En cas de problème, être capable de nier. (#Sigint, fake trafic between 2 hosts).
+Ne jamais reconnaitre/admettre/assumer quoi que ce soit. Toujours nier.  
+
+Chiffrer son disque dur de son laptop et mettre toute les "traces" sur une clef Tails. (It's work for me!)
+
+OPSEC avec Tor
+Lancer votre connexion au VPN
+	openvpn --config config.conf
+
+Lancer votre connexion au réseau Tor (avec un bridge Obfs4 dans le fichier de config torrc).
+	systemctl start tor
+
+Connecté vous à un proxy socks (par exemple un tunnel SSH) via Tor (torsocks/torify/proxychains etc ...).
+	torsocks ssh -v -CND 8888 root@example.tld
+ 
+Cela ouvrira le port 8888 en localhost sur votre machine et tout ce qui passera par ce tunnel passera par Tor puis sortira sur la machine distance.
+De cette façon, personne ne sais que vous utilisez Tor et votre trafic n'est pas exposé au dernier noeud de sortie Tor (à cause du tunnel SSH).
+
+Attention vous êtes protéger d'un point de vue du réseau.
+
+Reste les cookies, les failles de votre navigateur et de plein d'autre chose. btw tout dépend de ce que vous faite sortir.
+Vous pouvez reset votre navigateur entre chaque session. (Icecat/Chromium (oubliez Chrome et Firefox, trop de google).).
+
+Ne pas hésiter, à faire fuiter de fausses informations, de fausses pistes, de fausses identités.
+Exemple : Poster/diffusé/leaker une photo avec des traces GPS menant à un endroit random (loin de votre position réel). 
+
+Une sécurité efficace et prolongé dans le temps est un acte extrêmement stressante et difficile.
+La paranoia est inutile, cela paralyse, divise et attaque votre capacité à maintenir l'opération en l'état.
+
+La psychologie coûte beaucoup car votre adversaire peut tenté de mettre la pression sur votre groupe et si l'une d'elle devient
+paranoiaque, l'adversaire gagne en puissance. Pour évité de tomber dans la paranoia il faut simplement établir certaines précautions de
+sécurité pour opérer efficacement et sainement.
+
+Comme ci ce n'était pas assez, a cela s'ajoute la peur constante d'être découverte, la peur que l'adversaire découvre votre couverture.
+
+Le fait d'être normal en publique et de montré une autre face au monde, tout en contenant l'égo de cette seconde vie clandestine et en
+maintenant une compartimentation très stricte stresse énormement votre mentale.
+
+Je sais qu'après avoir réussi une action difficile au sein de l'OP il peut être tentant d'en parler autour de soit, d'être fier. Mais en parler ne vous causera 
+que du "tor" :>
+
+Citation : (The Grugq).
+"ils partagent uniquement leurs informations à leurs amis proche ou de confiance, qui à leurs tour partage ces
+information avec leurs amis proches etc ... et soudainement tout le monde est sûr la liste et tout le monde fini en prison."
+
+Suivant votre cas, il peut être utile de limité son temps dans l'underground.
+
+Souvenez-vous, les attaques par corrélation sont les pires ...
+
+L'opsec c'est comme tout, ça parait compliqué à comprendre quand on débute, mais ensuite tout devient simple, il faut juste ne pas faire d'erreur ...
+
+Citation : 
+C'est le moment d'apprendre et de pratiquer le contre-espionnage ("counterintelligence" dans la citation).
+
+Une dernière pour la route
+Shut the fuck up !!!!! ~~:)

@@ -1,0 +1,154 @@
+!!!!!!!' ,!!!!;  ;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!>,   ,;; `
+!!!!' ,<!!!!' ,<!!!!!!!!!!!!!''`````````````!!!!!!!!!!!!!!!!!!!!!!!!!,`'!!!;
+!'',;!!!!'' ,!!!!!!!!!!''`                   .``'!!!!!!!!!!!!!!!!!!!!!!,``!!
+ ;!!!!!' ,<!!!!!!!!!''                        '`<. `'!!!!!!!!!!!!!!!!!!!!, `
+!!!!' ,<!!!!!!!!!''                               `<. `!!!!!!!!!!!!!!!!!!!!,
+!' ,;!!!!!!!!!!'!                                    `: `'!!!!!!!!!!!!!!!!!!
+,;!!!!!!!!!!!'!                                          !!!!!!!!!!!!!!!!!!!  
+    /   | |  \ | | /  _  \ |  \ | | /  ___/ /  _  \   | | | |     /   | |  _  \ 
+   / /| | |   \| | | | | | |   \| | | |___  | | | |   | | | |    / /| | | | | | 
+  / / | | | |\   | | | | | | |\   | \___  \ | | | |   | | | |   / / | | | | | | 
+ / /  | | | | \  | | |_| | | | \  |  ___| | | |_| |_  | |_| |  / /  | | | |_| | 
+/_/   |_| |_|  \_| \_____/ |_|  \_| /_____/ \_______| \_____/ /_/   |_| |_____/                                                     `   >.`'!!!!!!:!!                                               !!!!!!!!!!!!!!!!
+!!!!!!!!!!!'                                                `!!!!!!!!!!!!!!!
+!!!!!!!!!!                                                    `!!!!!!!!!!!!!
+!!!!!!!!'                                                      `!!!!!!!!!!!!
+!!!!!!!                                          .,,.         > <!!!!!!!!!!!
+!!!!!!             .,cc$$$$$c                 ,d$$$$$$$c,    `! `!!!!!!!!!!!
+!!!!!          ,,c$$$$$$$$$$$$e              z$F?$$$$$$$$b,   !> !!!!!!!!!!!
+!!!!          d$$$$$$$$$$$???""?-           d$$P"  "??$$$$$,  `! !!!!!!!!!`!
+!!!           "??$$???""     `"?c, ,,cccc, `?"          ""    `!>`!!!!!!!! !
+!!> zc,._                    ,cc,$$$$$$$$$$bc                  !> !!!!!!!! !
+!! <$$L   `"c,   b,       ,c$$$$$$$$$$$$$$$$$$c ,,c,           `! `!!!!!!! !
+!! $$$$$$ccc$$?? `M, ;;' c$$$$$$$$$"'  `"$$$b`?$$"`?           `!  !!!!!!! !
+! <$$$$$$$$P" ,<!,",;! ,$$$$$$$$$P  ,c,  `?$$h`$'              `!> !!!!!!!!!
+! $$$$L._"" ;!!!''`,,  $$$$$$$$$$F ,$PFz,  ?$F ",cb             !! !!!!!!!!!
+> $$$$$r`Mn,`!' ,d$$F d$$$$$$$$$$$c$$$ $$c. "?,;' )             !! !!!!!!!!!
+ <$$$$P",,",/ ,$$$$$F,$$$$$$$$$$$$$$$$ "   34$?,ccF ..::..      !! !!!!!!!!!
+ J$$$P :!!!! z$$$$$$bJ$$$$$$$$$$$$$?$$,`hcdFdF ".:::<CC>:::    ;!! !!!!!!!!!
+ $b =e,_`!! <$$$$$$$$$$$$$$$$$$$$$$h?$$,`?".- .:::::::::::'    ;!> !!!!!!!!!
+ $$$c "M';f $$$$$$$$$$$$$$$$$$$$$$$$$L?$,",z$$L`:::::::'' .    !!> !!!!!!!!!
+J$$$F >;;!  $$$$P)$$$$$$$$$$$$$$$$$$$$$$bd$$$$$ 4c,,,,cd$F?c   !!> !!!!!!!!!
+J$$$F !!!!> $$$P,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ J$$$$$P?$P'$$  !!' !!!!!!!!!
+J$$$F `,,`> ?$F,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $?c$$"3$" ?bcr !!  !!!!!!!!!
+J$$c,`""",!; ? J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$'<$cP" "" ,$c$$F !! .!!!!!!!!!
+$P"""?b,`!!!;  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$' c,,cdP" ,$$$$P :!! :!!!!!!!!!
+L    d$$c `!!! $$$$$$$$$$$$$$$$$$$$$$$$$$$$$' d$$$F,zP $$$$F z,`` :!!!!!!!!!
+$$$$$$$$$$c `' `$$$$$$$$$$$$$$$$$$$$$$$$$$$',$$$",d$" d$$P",d"" ". `!!!!!!!!
+""   `"$$$$$cc, `"",,,,,,,.`"""??$$$$$$$$" z$$$c$$$".$$$",c$$c    "c,``!!!!!
+      ,$$$$$" ,c$$PF")$$$$$$$$bc,. "?$P",c$$PFF""",,,"" d$$$$$$ccc$$$b, `!!!
+     ,$$$$F d$$P",zd$$$PF",J$$$$$$$be. `".,ccd$$$$$$$$b, "$$$$$$$$$$$$$$. `!
+  ,zd$$$$$L ?$",d$$$P",cd$$$$$$$P"",,cd$$$$$$$$$$$$$$$???-`?$$$$$$$$$$$$$b,`
+?$$$$$$$$$$b,. $$$$",d$$$$$$$P",c$$$$$$$$$$$$$$$$$P" ,ccccccc,,.CC$$$$$$$$$,
+?$$$$$$$$$$$$$, "?L $$$$$$$P",$$$$$$$$$$$$$$$$$$P",d$$$$$$$$$$$$$$$$$$$$$$$$
+<$$$$$$$$$$$$$$$$cc,. """",c$$$$$$$$$$$$$$$$$$" z$$$$$$$$$$$$$$$$$$$$$$$$P"
+`$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P",z$$$$$$$$$$$$$$$$$$$$$$$P"
+  ?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P',d$$$$$$$$$$$$$$$$$$$PF""
+    "?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P"    `""""??????""""""
+       "?$$$$$$$$$$$$$$$$$$$$$$$$PF""
+           ""???$$$$$$$$$$PF""'
+
+By BenDer
+
+https://github.com/AnonSquad-BenDer/AnonSquad-OP
+--------------------------------------------------------
+
+Infos site http://daesh-news.com
+A revérifier!
+
+
+Adresse ip du site: 104.31.72.28
+
+Domain Name	DAESH-NEWS.COM
+Registrar	REALTIME REGISTER BV
+Sponsoring Registrar IANA ID	839
+Whois Server	whois.yoursrs.com
+Referral URL	http://www.realtimeregister.com
+Name Server	PAUL.NS.CLOUDFLARE.COM
+Name Server	ZOE.NS.CLOUDFLARE.COM
+Status	clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Updated Date	06-jan-2016
+Creation Date	16-mar-2015
+Expiration Date	16-mar-2016
+
+-----------------------------------------------------------------------------------------
+
+Domain Name	daesh-news.com
+Registry Domain ID	1910543606_DOMAIN_COM-VRSN
+Registrar WHOIS Server	whois.realtimeregister.com
+Registrar URL	http://www.realtimeregister.com
+Updated Date	2016-01-06T10:17:42Z
+Creation Date	2015-03-16T13:10:16Z
+Registrar Registration Expiration Date	2016-03-16T13:10:16Z
+Registrar	REALTIME REGISTER B.V.
+Registrar IANA ID	839
+Registrar Abuse Contact Email	abuse[at]realtimeregister.com
+Registrar Abuse Contact Phone	+31.384530759
+Reseller	Hostcontrol
+Domain Status	ok
+Domain Status	clientTransferProhibited
+Registry Registrant ID:
+Registrant Name	reza
+Registrant Organization:
+Registrant Street	tehran
+Registrant City	tehran
+Registrant State/Province	tehran
+Registrant Postal Code	1212121212
+Registrant Country	IR
+Registrant Phone	+98.9399124652
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email	rezababaei71@yahoo.com
+Registry Admin ID:
+Admin Name	reza
+Admin Organization:
+Admin Street	tehran
+Admin City	tehran
+Admin State	tehran
+Admin Postal Code	1212121212
+Admin Country	IR
+Admin Phone	+98.9399124652
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email	rezababaei71@yahoo.com
+Registry Tech ID:
+Tech Name	reza
+Tech Organization:
+Tech Street	tehran
+Tech City	tehran
+Tech State	tehran
+Tech Postal Code	1212121212
+Tech Country	IR
+Tech Phone	+98.9399124652
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email	rezababaei71@yahoo.com
+Name Server	zoe.ns.cloudflare.com
+Name Server	paul.ns.cloudflare.com
+DNSSEC	not signed
+URL of the ICANN WHOIS Data Problem Reporting System:
+http	//wdprs.internic.net/
+-----------------------------------------------------------
+
+Ip logger:
+-------------
+Ip de l'administrateur: 5.223.66.73
+Page: http://daesh-news.com/wp-admin/edit-comments.php
+Deduction panel admin: http://daesh-news.com/wp-admin/
+
+User agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+
+Pays: Iran
+Ville: Tehran
+ISP: Mabna
+Continent: Asie
+Latitude: 35.6961
+Longitude: 51.4231
+Fournisseur internet: GOSTARESH MABNA COMPANY (Private Joint Stock)
+
+
+-------------------------------------------------------------------------
+Le site est sous WordPress 4.3.1
